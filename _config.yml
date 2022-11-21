@@ -3,12 +3,12 @@ permalink: pretty
 title: 'Infrastructure & CyberSecurity Services'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/shield.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  desktop: "images/logo/shield.svg"
+  desktop_height: "50px"
+  desktop_width: "50px"
 
 home: 
   limit_services: 3
