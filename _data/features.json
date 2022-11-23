@@ -1,7 +1,7 @@
 [
   {
     "title": "Cybersecurity As A Priority",
-    "description": "We understand today's cybersecurity challenges.",
+    "description": "We solve complex cyber security and infrastructure challenges.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "Certified Professionals",
-    "description": "Our team is form by CISSP certified Engineers and MSc.",
+    "description": "Our team is formed by CISSP certified Engineers and MSc.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Cloud Native",
-    "description": "We architech resilient and elastic solutions on the cloud.",
+    "description": "We architect resilient and elastic solutions on the cloud.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

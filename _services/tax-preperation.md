@@ -1,13 +1,10 @@
 ---
-title: "Tax Preperation"
+title: "Cybersecurity Training"
 date: 2019-04-18T12:33:46+10:00
 weight: 6
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+With the help of our experienced professors and researchers, we offer training on notions of cybersecurity for your whole organization, DevSecOps crash courses, Cloud architecting, Application Security, and more.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
