@@ -6,79 +6,26 @@ weight: 4
 
 Modernize your infrastructure, and gain elasticity and resilience. Our team can help you seamlessly migrate your legacy applications to AWS, GCP, Azure, and others.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
-
-# Objectives
-
-Financial accounting and financial reporting are often used as synonyms.
-
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
-
-## Relevance
-
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
-
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
+| Cloud Migration | Cloud Support   | Cybersecurity on the cloud | Cloud Optimization |
 | ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+| For companies wanting to migrate to the cloud    | For companies looking for help to maintain its infrastructure | For companies that need to mature their security   | For companies that need to adapt better for the cloud |
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+![cloud Services](/images/cloudmig.avif)
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+One of the main benefits of cloud computing infrastructure is the ability to **scale and adapt to changing business needs**. With cloud computing, your company can quickly and easily add or remove computing resources as needed, without having to invest in physical infrastructure or manage complex software installations. This enables your company to **respond to changes in demand and business objectives, and to optimize its IT resources for maximum efficiency and cost-effectiveness**.
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+Another benefit of cloud computing infrastructure is the ability to access a wide range of services and technologies. With cloud computing, your company can access a wide range of services, such as virtual machines, containers, databases, analytics, security, and networking, from various cloud providers. This enables your company to access the latest technologies and services without having to invest in them upfront, and to experiment with different solutions to find the best fit for its needs.
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+In addition to cost savings and improved agility, cloud computing infrastructure can also help your company in other ways. For example, it can enable your company to access advanced security technologies and services, such as firewalls, intrusion detection and prevention, and encryption, to protect its data and applications from cyber threats. It can also enable your company to access disaster recovery services, such as backups and replication, to ensure that its data and applications are always available, even in case of failures or disasters.
 
-## Statement of financial position (balance sheet)
+# How can we help?
 
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
+**As a specialized cybersecurity company, we have the expertise and experience to help organizations create secure cloud computing infrastructures**. We can provide a range of services, such as assessments, design, implementation, and management, to ensure that our *clients' cloud environments are secure and compliant with industry standards and regulations*.
 
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
+Our team of certified cybersecurity experts can help our clients assess their existing cloud environments, identify potential vulnerabilities and risks, and develop a comprehensive security strategy that aligns with their business objectives and requirements. We can also help our clients design and implement secure cloud architectures, using best practices and proven technologies, such as encryption, access controls, and firewalls, to protect their data and applications from cyber threats.
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+In addition to designing and implementing secure cloud environments, **we can also provide ongoing management and support services to help our clients maintain and optimize their cloud security**. This includes monitoring, patching, backups, and maintenance, as well as training and support to ensure that our clients' staff and users are aware of the latest security best practices and technologies.
+
+
+
+
