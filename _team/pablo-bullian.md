@@ -8,8 +8,8 @@ promoted: true
 weight: 1
 ---
 
-Pablo has a vast experience in DevSecOps and Cybersecurity. He architected and managed Several HIPAA-compliant hosting infrastructures for the U.S. working with major healthcare and motor vehicles organizations.
+Pablo Esteban Bullian is a highly experienced DevSecOps and Cybersecurity expert. He has a proven track record of successfully architecting and managing HIPAA-compliant hosting infrastructures for major healthcare and motor vehicles organizations in the United States.
 
-He holds CISSP and AWS cloud certifications and has a master's degree from the University of Buenos Aires in computer and information systems security and information assurance.
+In addition to his extensive professional experience, Pablo is also highly qualified, holding CISSP and AWS cloud certifications and a Master's degree from the University of Buenos Aires in computer and information systems security and information assurance.
 
- He is currently an associate professor of cybersecurity engineering at CPE Lyon in France. He has a passion for all things related to cybersecurity and cloud hosting and publishes a monthly cybersecurity newsletter.
+Currently, Pablo is an associate professor of cybersecurity engineering at CPE Lyon in France. His passion for all things related to cybersecurity and cloud hosting is evident in his monthly cybersecurity newsletter, which he publishes for the benefit of like-minded individuals.
