@@ -5,9 +5,9 @@ main:
   - name: "Team"
     url: "/team/"
     weight: 3
-#   - name: "Blog"
-#     url: "/blog/"
-#     weight: 4
+  - name: "Blog"
+    url: "https://blog.infrasecurityservices.com"
+    weight: 4
   - name: "Contact"
     url: "/contact/"
     weight: 5
